@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/Esxjvv7/abstract-camp-fire-sparks-background-effect_ejystfvze__F0000.png");
+    background-size: cover;
+}
+#container{
+    width:500px;
+    margin:auto;
+    text-align:center;
+}
+#butt:hover{
+    color:orangered;
+}
+#butt:active{
+    background-color: black;
+    color:white;
+    border-radius: 100px;
+}
