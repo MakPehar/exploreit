@@ -7,10 +7,10 @@ body{
     margin:auto;
     text-align:center;
 }
-#butt:hover{
+.butt:hover{
     color:orangered;
 }
-#butt:active{
+.butt:active{
     background-color: black;
     color:white;
     border-radius: 100px;
