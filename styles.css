@@ -15,3 +15,21 @@ body{
     color:white;
     border-radius: 100px;
 }
+#back{
+    margin:0;
+    animation-name:change;
+    animation-duration:5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.woah{
+    width:400px;
+}
+@keyframes change {
+    from{
+        background-color: black;
+    }
+    to{
+        background-color: #231336;
+    }
+}

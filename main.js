@@ -1,8 +1,8 @@
 function main(){
     $('#butt').on('click',function(){
       var x = $('.help').val();
-      if(x==='Hello'){
-          alert("Hello");
+      if(x==='Maxwell'){
+          window.location.replace('indextwo.html');
       }
     })
 }
